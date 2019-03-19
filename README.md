@@ -1,5 +1,5 @@
 
-# Angular_Authentication
+# Angular_Authentication - Using NodeJS, Angular 2+ and jsonwebtokens
 Angular authentication and guarding the route using route guard and json web tokens
 (Followed Codevolution)
 1. Add the jwt to the backend and send the tokens to the front end
